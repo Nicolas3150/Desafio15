@@ -121,11 +121,12 @@ td img {
   width: fit-content;
   border: none;
   cursor: pointer;
+  background: none;
   font-size: 16px;
 }
 
 #logout-btn:hover {
-  color: #0e1afd;
-  background: none;
+  /* color: #0e1afd; */
+  color: red;
   text-decoration: underline;
 }
